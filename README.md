@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nuclear Reactor Simulator for mobile platforms**
 
-- 🌱 I’m currently learning **Kotlin, Java Spring Boot, Android Studio**
+- 🌱 I’m currently learning **Java Spring Boot, Android Development📱**
 
 - 📫 How to reach me **harun2003jaganjac@gmail.com**
 
