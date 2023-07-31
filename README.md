@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Nuclear Reactor Simulator for mobile platforms**
+- 🔭 Working on multiple projects**
 
 - 🌱 I’m currently learning **Java Spring Boot, Android Development📱**
 
